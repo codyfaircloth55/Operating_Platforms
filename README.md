@@ -1,4 +1,4 @@
-<h2>Software-Design-Template</h2>
+<h2>CS 230 Operating Platforms</h2>
 <h3>Overview:</h3>
 <p>The Gaming Room was an online game developer wanting to create software to host their new game, Draw it or Lose It, across multiple operating systems, including mobile operating systems. The software was a database of user, team, and game object data along with a library of photos for gameplay.</p>
 <h3>Stengths:</h3>
